@@ -200,6 +200,6 @@ for item_id, item_text, category, status, created_at in items:
 
 st.divider()
 st.info(
-    "To share this with your brother, run it on one PC and let him open the same network link, "
-    "or deploy it online using Streamlit Community Cloud."
+    "Valfor = gay, "
+    "LQS when."
 )
